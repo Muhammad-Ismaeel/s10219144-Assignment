@@ -5,12 +5,24 @@ nav{
 nav a{
     float: left;
   display: block;
-  color: #f348f3;
-  background-color: beige;
+  color: #f394f3;
+  background-color: purple;
   text-align: center;
   padding: 14px 16px;
+  width: 17.8%;
 }
 nav a:hover {
     background-color: cornflowerblue;
     color: black;
+  }
+
+
+  .footer {
+    background-color: lightcoral;
+    padding: 10px;
+    position:absolute;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
   }
