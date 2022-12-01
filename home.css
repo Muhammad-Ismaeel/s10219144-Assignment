@@ -1,0 +1,22 @@
+body{
+    background-image: url(/images/Picture\ 1.jpg);
+    background-size:contain;
+}
+h1{
+    text-decoration-line: overline underline;
+    text-align: center;
+    background-color: aqua;
+    padding: 30px 30px;
+}
+
+.content{
+    overflow: auto;
+    background-color: violet;
+    
+}
+.content p{
+    position: relative;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
