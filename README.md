@@ -23,8 +23,14 @@ The wireframe is included in the repository and the folder as the only XD file.
 #### Content
 
 I got content from the following sites:
--Wikipedia
--mtv.com at the link https://www.mtv.com/news/yrprrf/backstreet-boys-kevin-richardson-back
+
+###### Wikipedia
+
+###### mtv.com at the link https://www.mtv.com/news/yrprrf/backstreet-boys-kevin-richardson-back
+
+###### https://www.kiis1065.com.au/entertainment/aj-reveals-why-kevin-really-left-the-backstreet-boys/
+
+###### https://www.vulture.com/2019/02/the-rise-and-fall-and-rise-of-the-backstreet-boys.html
 
 #### Acknowledgement
 
