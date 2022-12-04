@@ -3,13 +3,26 @@ body{
     background-size:contain;
 }
 
-h1{
-    text-decoration-line: overline underline;
-    text-align: center;
-    background-color: rgb(57, 226, 114);
-    color: darkblue;
-    padding: 30px 30px;
-}
+@media (min-width:300px) {
+    h1{
+        text-decoration-line: underline;
+        text-align: center;
+        background-color: rgb(57, 226, 114);
+        color: darkblue;
+        padding: 30px 30px;
+    }
+    }
+
+@media (min-width:460px) {
+    h1{
+        text-decoration-line: overline underline;
+        text-align: center;
+        background-color: rgb(57, 226, 114);
+        color: darkblue;
+        padding: 30px 30px;
+    }
+    }
+
 
 .content{
     overflow: auto;
