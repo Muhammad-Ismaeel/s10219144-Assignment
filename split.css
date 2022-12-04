@@ -2,3 +2,24 @@ body{
     background-image: url(/images/4-Man.jpg);
     background-size:contain;
 }
+
+h1{
+    text-decoration-line: overline underline;
+    text-align: center;
+    background-color: rgb(57, 226, 114);
+    color: darkblue;
+    padding: 30px 30px;
+}
+
+.content{
+    overflow: auto;
+    background-color: rgb(124, 88, 201);
+    color: black;
+    
+}
+.content p{
+    position: relative;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}

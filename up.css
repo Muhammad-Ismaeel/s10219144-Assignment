@@ -2,3 +2,24 @@ body{
     background-image: url(/images/I\ want\ it\ that\ way.jpg);
     background-size:contain;
 }
+
+h1{
+    text-decoration-line: overline underline;
+    text-align: center;
+    background-color: gold;
+    color: black;
+    padding: 30px 30px;
+}
+
+.content{
+    overflow: auto;
+    background-color: silver;
+    color: brown;
+    
+}
+.content p{
+    position: relative;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}

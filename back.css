@@ -2,3 +2,24 @@ body{
     background-image: url(/images/20s.jpg);
     background-size:contain;
 }
+
+h1{
+    text-decoration-line: overline underline;
+    text-align: center;
+    background-color: hotpink;
+    color: brown;
+    padding: 30px 30px;
+}
+
+.content{
+    overflow: auto;
+    background-color: gray;
+    color: lime;
+    
+}
+.content p{
+    position: relative;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}

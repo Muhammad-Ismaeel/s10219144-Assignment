@@ -1,5 +1,6 @@
 nav{
     overflow: hidden;
+    max-width: 100%;
 }
 
 nav a{
@@ -9,7 +10,8 @@ nav a{
   background-color: purple;
   text-align: center;
   padding: 14px 16px;
-  width: 17.8%;
+  width: 17.5%;
+
 }
 nav a:hover {
     background-color: cornflowerblue;
@@ -20,7 +22,7 @@ nav a:hover {
   .footer {
     background-color: lightcoral;
     padding: 10px;
-    position:absolute;
+    position:fixed;
     bottom: 0px;
     width: 100%;
     text-align: center;
