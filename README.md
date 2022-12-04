@@ -6,7 +6,27 @@ This project is an overview on The Backstreet Boys; their meteoric rise to fame,
 
 ### Design Process
 
-### Research Done
+The website is for those interested to know more about bands such as the Backstreet Boys as they can get a deeper understanding of what the band went through in order to gain the fame they did and how they retained said fame. After learning more, they can complete a quiz as well as purchase official Backstreet Boys merchandise through the link embedded in the Home page. The website provides them with many different types of information regarding the band, so that they can learn much about the Backstreet Boys.
+
+#### User Stories
+
+As an external user, I wish to learn more about the Backstreet Boys' history and the members.
+As an external user, I wish to be able to find a location to purchase merchandise of the Backstreet Boys.
+As the site owner, I wish to enable users to view the merchandise store to increase my sales.
+
+#### Wireframe
+
+The wireframe is included in the repository and the folder as the only XD file.
+
+### Credits
+
+#### Content
+
+I got content from the following sites:
+-Wikipedia
+-mtv.com at the link https://www.mtv.com/news/yrprrf/backstreet-boys-kevin-richardson-back
+
+#### Acknowledgement
 
 I went to look through websites on various bands such as N-Sync, Maroon 5 as well as Backstreet Boys to find out what websites like these have.
 By doing so, I know what pages to have and I placed the previous notable events in my file through this research.
