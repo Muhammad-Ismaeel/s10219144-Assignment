@@ -15,11 +15,13 @@ h1{
     overflow: auto;
     background-color: silver;
     color: brown;
+    margin-bottom: 50px;
     
 }
 .content p{
     position: relative;
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 
 }

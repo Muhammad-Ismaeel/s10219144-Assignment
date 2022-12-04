@@ -13,7 +13,7 @@ h1{
 .content{
     overflow: auto;
     background-color: violet;
-    
+    margin-bottom: 50px;
 }
 .content p{
     position: relative;
